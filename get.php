@@ -1,0 +1,1 @@
+<a  href='get2.php?edad=29'>mandar edad</a>
